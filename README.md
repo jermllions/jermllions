@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jermllions/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermllions/azure-network-protocols)
+  Create Virtual Machines in Azure with VPN 
 
 <h2>🤳Connect with me:</h2>
 
