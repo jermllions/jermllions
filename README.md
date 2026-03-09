@@ -5,8 +5,11 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jermllions/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  Create Virtual Machines in Azure with VPN 
 
+Create Virtual Machines in Azure with VPN
+
+
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jeremiah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
