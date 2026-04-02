@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremiah, an <a href="https://linkedin.com/in/Josh">IT Professional
+<h1>Hi, I'm Jeremiah, an <a>IT Professional
 
 <h2>👨‍💻 Information Technology Projects
 
