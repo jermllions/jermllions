@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeremiah, an <a href="https://linkedin.com/in/Josh">IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   
