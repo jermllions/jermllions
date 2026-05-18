@@ -9,6 +9,11 @@
 - <b>Microsoft Azure</b>
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermllions/azure-network-protocols)
+  -  [Configuring On-premises Active Directory within Azure VMs](https://github.com/jermllions/configure-ad)
+ 
+
+
+
 
 
 
